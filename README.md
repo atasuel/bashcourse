@@ -1,3 +1,3 @@
 # bashcourse
 
-!noFilter
+!myimg.png
